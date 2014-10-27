@@ -1,4 +1,4 @@
-package com.spout.phonegap.plugins.baidulocation;
+package com.plugins.baidulocation;
 
 
 import java.util.HashMap;
